@@ -12,17 +12,17 @@ While the environment is active, any package you install using pip will be insta
 
 `cd <repo-root>\mnist`
 
-`virtualenv mnist-env`
+`python -m virtualenv mnist-env`
 
 #### Activate Virtual Envinment (on Windows)
 
-`cd <repo-root>`
+`cd <repo-root>\mnist`
 
 `.\mnist-env\Scripts\activate.bat`
 
 #### Deactivate Virtual Envinment (on Windows)
 
-`cd <repo-root>`
+`cd <repo-root>\mnist`
 
 `.\mnist\mnist-env\Scripts\deactivate.bat`
 
