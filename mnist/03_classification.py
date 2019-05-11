@@ -152,6 +152,9 @@ from sklearn.linear_model import SGDClassifier
 sgd_clf = SGDClassifier(max_iter=1000, tol=1e-3, random_state=42)
 sgd_clf.fit(X_train, y_train_5)
 
+#%% [markdown]
+# **Note from Fabricio**: If we had used https://scikit-learn.org/stable/tutorial/machine_learning_map cheat sheet, we wouldn't have picked SGD becase there are less than 100K samples.
+
 #%%
 sgd_clf.predict([some_digit])
 
