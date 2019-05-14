@@ -1,3 +1,8 @@
+#%% [markdown]
+# This is a just an import of [this file](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb) made by Python extension in Visual Studio Code. 
+# Minor notes have been added for learning purposes.
+# Adding a copy of Apache license 2.0 that goes along with original file.
+
 #%% Change working directory from the workspace root to the ipynb file location. Turn this addition off with the DataScience.changeDirOnImportExport setting
 import os
 try:

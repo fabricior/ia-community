@@ -106,3 +106,4 @@ venv.bak/
 
 images/
 
+datasets/spam/easy_ham/*
