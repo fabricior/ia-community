@@ -1,4 +1,4 @@
-# endava-ia-community
+# ia-community
 
 ## MNIST example
 
